@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>dataBST.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'dataBSTNode::nodeRecentMeasuredValue' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>dataBSTNode::{ctor}</FUNCTION>
+    <DECORATED>??0dataBSTNode@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>dataBSTNode::nodeRecentMeasuredValue</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>dataBST.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'dataBSTNode::leftNode' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>dataBSTNode::{ctor}</FUNCTION>
+    <DECORATED>??0dataBSTNode@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>dataBSTNode::leftNode</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>dataBST.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'dataBSTNode::rightNode' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>dataBSTNode::{ctor}</FUNCTION>
+    <DECORATED>??0dataBSTNode@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>dataBSTNode::rightNode</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

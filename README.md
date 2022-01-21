@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](vertopal_5b1e27fd918340fead75b18751ec1c30/media/image2.png){width="8.51388888888889in"
 height="5.457492344706911in"}![](vertopal_5b1e27fd918340fead75b18751ec1c30/media/image3.png){width="6.947222222222222in"
 height="0.5851870078740158in"}![](vertopal_5b1e27fd918340fead75b18751ec1c30/media/image4.png){width="6.947222222222222in"
@@ -2186,3 +2187,6 @@ eTape, only the initial voltages may be different
 > }
 
 50
+=======
+# IoT_Database
+>>>>>>> c5d5cf9ce66939c1584719a1eb9f33176e2be4c5

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>DataFiles.h</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DataFiles::temperatureDataFileLocation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DataFiles::{ctor}</FUNCTION>
+    <DECORATED>??0DataFiles@@QAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DataFiles::temperatureDataFileLocation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>DataFiles.h</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DataFiles::humidityDataFileLocation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DataFiles::{ctor}</FUNCTION>
+    <DECORATED>??0DataFiles@@QAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DataFiles::humidityDataFileLocation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>DataFiles.h</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DataFiles::waterLevelDataFileLocation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DataFiles::{ctor}</FUNCTION>
+    <DECORATED>??0DataFiles@@QAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DataFiles::waterLevelDataFileLocation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>DataFiles.h</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DataFiles::nodeTemperaturesDataFileLocation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DataFiles::{ctor}</FUNCTION>
+    <DECORATED>??0DataFiles@@QAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DataFiles::nodeTemperaturesDataFileLocation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>DataFiles.h</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DataFiles::nodeWaterLevelsDataFileLocation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DataFiles::{ctor}</FUNCTION>
+    <DECORATED>??0DataFiles@@QAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DataFiles::nodeWaterLevelsDataFileLocation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>DataFiles.h</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DataFiles::nodeUpgradeDataFileLocation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DataFiles::{ctor}</FUNCTION>
+    <DECORATED>??0DataFiles@@QAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DataFiles::nodeUpgradeDataFileLocation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tahmi\VS Projects\repos\C++\IoT Database Application\IoTDatabase\IoTDatabase\</FILEPATH>
+      <FILENAME>DataFiles.h</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DataFiles::nodeHumiditiesDataFileLocation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DataFiles::{ctor}</FUNCTION>
+    <DECORATED>??0DataFiles@@QAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DataFiles::nodeHumiditiesDataFileLocation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

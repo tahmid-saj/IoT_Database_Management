@@ -1,0 +1,14 @@
+Priority_(whole_number_value) Task_(sentence/string_type_value)
+5 Include water level nodes in research paper.
+6 Include temperature nodes in teaching material.
+3 Recalibrate water level nodes.
+4 Place protective shelter on nodes.
+1 Repair water level nodes.
+1 Repair temperature nodes.
+1 Repair humidity nodes.
+9 Buy new nodes for 2022.
+10 Download node data from data storage for research.
+7 Take experiment images of water level nodes.
+7 Take experiment images of temperature nodes.
+3 Insert node 4
+4 Buy extra wires
